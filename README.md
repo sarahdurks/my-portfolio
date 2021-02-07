@@ -1,9 +1,9 @@
 
 # Name 
-  UC Berkeley's Coding Bootcamp Porfolio Project
+UC Berkeley's Coding Bootcamp Porfolio Project
 
 ### Live Application Link :eyes:
-domint woon
+coming soon
 
 ### Built With :toolbox: 
 - HTML
@@ -16,7 +16,10 @@ The following was completed:
 
 - [x] Social profile links and icons added
 - [x] Contact form added
+- [x] Jump Links nav
+
 # Project Visual :metal:
+coming soon
 
 # Authors, Acknowledgement, & Resources :handshake:
 ### Teaching Crew at UCB Coding Bootcamp :tada:
@@ -27,8 +30,7 @@ The following was completed:
 [Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
 
 ### W3Schools :nerd_face:
-[HTML Semantic Elements](https://www.w3schools.com/html/html5_semantic_elements.asp)
-[Meta Tags](https://www.w3schools.com/tags/tag_meta.asp)
+[Pretty Much All of It](https://www.w3schools.com)
 
 ### Gtihub Guides :octocat:
 [GitHub to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
