@@ -3,8 +3,7 @@
 UC Berkeley's Coding Bootcamp Porfolio Project
 
 ### Live Application Link :eyes:
-coming soon
-
+[Portfolio on Github.io](https://sarahdurks.github.io/my-portfolio/) 
 ### Built With :toolbox: 
 - HTML
 - CSS
