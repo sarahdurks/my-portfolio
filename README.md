@@ -34,3 +34,9 @@ coming soon
 
 ### Gtihub Guides :octocat:
 [GitHub to Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+### HTML Fotmatter :fire:
+[Free Formatter for HTML](https://www.freeformatter.com/)
+
+### iconmonstr :raised_hands:
+[iconmonster for Icons](https://iconmonstr.com/)
