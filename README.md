@@ -39,7 +39,8 @@ The following was completed:
 > WHEN I resize the page or view the site on various screens and devices
 > THEN I am presented with a responsive layout that adapts to my viewport
 # Project Visual :metal:
-coming soon
+![02-advanced-css-homework-demo-1](https://user-images.githubusercontent.com/77648727/107163594-3eb83000-695f-11eb-9118-0da4b82f8627.gif)
+
 
 # Authors, Acknowledgement, & Resources :handshake:
 ### Teaching Crew at UCB Coding Bootcamp :tada:
