@@ -1,0 +1,140 @@
+* {
+    box-sizing: border-box; 
+  }
+/*header formatting styling*/ 
+  header {
+    padding: 10px 10px;
+    background-color: var(--tertiary-color);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+    background-position: 80%;
+    z-index: 9999;}
+    
+header hero {
+      background-image: url("../images/heroimage.png");
+      background-size: cover;
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      background-attachment: fixed;
+      background-position: 80%;
+    }
+
+  
+  
+  header h1 {
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    font-size: 200x;
+    color: white;
+    background-color: black;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: var(--primary-color);
+  }
+  
+  header nav {
+    margin: 7px 0;
+  }
+  
+  
+  header nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    color: cornsilk;
+  }
+  
+  header nav ul li a {
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.55vw;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  header nav ul li a:hover {
+    background: var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 15px;
+    text-shadow: none;
+  
+}
+header nav {
+  padding-top: 5px;
+  margin-right: 20px;
+  float: right;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+}
+
+header nav ul li {
+  display: inline-block;
+  margin-left: 25px;
+}
+
+aside {
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+/* Portfolio styles*/
+
+.portfolio {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  border: 2px solid;
+  padding: 5px;
+  }
+  
+  .portfolio .item {
+  flex-direction: row;
+  border: 2px solid;
+  justify-content: flex-end;
+  color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  align-items: right;
+  background-color: rgb(5, 223, 223);
+}
+
+/*FOOTER CLOSEOUT SECTION*/
+
+.social {
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+border: 2px solid;
+padding: 5px;
+}
+
+.social .item {
+flex-direction: row;
+border: 2px solid;
+justify-content: flex-end;
+color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+align-items: right;
+background-color: rgb(5, 223, 223);}
+
+.social .item img {
+  flex-direction:row;
+  justify-content: left;
+}
+
+footer {
+  display: flexbox;
+  flex-direction: column;
+  width: 25%;
+}
