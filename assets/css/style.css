@@ -1,6 +1,6 @@
 body {
 
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  font-family:'Montserrat', sans-serif;
   font-size: 1rem;
 }
 
@@ -9,7 +9,7 @@ body {
   
   h1, h2 {
     font-weight: 700 !important;
-    color:#000000
+    color:#178617
   }
   
   h2 {
@@ -19,7 +19,7 @@ body {
   /* HYPERLINKS */
   
   a {
-    color: #6200ff (34, 100%, 50%, 1);
+    color: rgba(62, 192, 62, 0.897);
     text-decoration: none;
     font-weight: 700;
   }
@@ -43,8 +43,6 @@ body {
     background-color: #ffffff;
     text-align: right;
     /* text align: center in max-width: 600px media query in grid.css */
-    text-transform: uppercase;
-    font: arial;
   }
   
   .jumbotron {
@@ -62,12 +60,12 @@ body {
  
   
   .title {
-    background-color: #db7c0e(34, 100%, 50%, 0.72);
+    background-color: hsla(120,60%,70%,0.3);
     color: white;
     font-size: 4.5rem;
   }
   .jumbo-caption {
-    background-color:#db7c0e(34, 100%, 50%, 0.72);
+    background-color:hsla(120,60%,70%,0.3);
     font-size: 1.7rem;
     color: white;
   }
@@ -112,7 +110,7 @@ body {
     /* -webkit-box-shadow: 0px 1px 3px #666666;
     -moz-box-shadow: 0px 1px 3px #666666;
     box-shadow: 0px 1px 3px #666666; */
-    background-color: #db7c0e(34, 100%, 50%, 0.82);
+    background-color: hsla(120,60%,70%,0.3); 
     padding: 10px 20px 10px 20px;
     text-decoration: none;
     font-weight: 700;
@@ -123,7 +121,7 @@ body {
   
   .btn:hover {
     text-decoration: none;
-    color: #db7c0e;
+    color: #000000;
   }
   
   /* FORM */
@@ -341,3 +339,61 @@ body {
       font-size: 0.9rem;
     }
   }
+/*footer attempt*/
+  body {
+    margin: 0;
+    padding: 5% 10%;
+    background: #dcd7ce;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 100%;
+  }
+  p {
+    text-align: center;
+    padding-top: 1em;
+  }
+  ul.social-set {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    height: auto;
+    width: auto;
+  }
+  ul.social-set li {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+  }
+  /* Font Awesome icons */
+  a.sociali {
+    font-size: 2em;
+    line-height: 1.2em;
+    padding: 10px;
+    background: #accfc0;
+    color: #fff;
+    margin-right: 10px;
+    margin-bottom: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  a.sociali:hover, a.sociali:focus {
+    background: #6d8785;
+  }
+  
