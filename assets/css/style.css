@@ -5,7 +5,16 @@ body {
   font-family:'Montserrat', sans-serif;
   font-size: 1rem;
 }
-  
+
+wrapper {
+  -ms-flex-item-align: stretch;
+}
+
+.img-max{
+  max-width: 100%;
+  max-height: auto;
+  border-radius: 5%;
+}
   /* Headers and Links */
   
   h1, h2 {
@@ -75,11 +84,14 @@ body {
   }
  
   /* Images */
+
   .img-responsive {
     max-width: 100%;
-    height: auto;
-    border-radius: 3%;
+    max-height: auto;
+    border-radius: 5%;
   }
+
+
   
   /* Button */
   .btn {
@@ -110,7 +122,7 @@ body {
     padding: 0;
     margin: 0;
     display: grid;
-    grid-template: repeat(6, auto) / 1fr;
+    grid-template: repeat(2, auto) / 2fr;
   }
   
   .nav {
@@ -154,10 +166,7 @@ body {
   .portfolio-content div:nth-child(5) {
     grid-area: e;
   }
-  .portfolio-content div:nth-child(6) {
-    grid-area: f;
-  }
-  
+
   .horizontal-line {
     margin-left: 10vw;
     margin-right: 10vw;
@@ -176,11 +185,19 @@ body {
       grid-template-areas:
       "aa aa at at at at";
     }
+
+    .wrapper {
+      flex-wrap: wrap;
+      padding-right: 1vw;
+      padding-left: 1vw;
+    }
+  
     .portfolio-content {
       display: grid;
+      flex-wrap: wrap;
       grid-template-areas:
-      "a a b b c c"
-      "d d e e f f";
+      "a a a b b b"
+      "c c c d d d";
     }
   
     .jumbotron {
@@ -205,12 +222,17 @@ body {
       "aa aa aa"
       "at at at";
     }
+
+    .wrapper {
+      flex-wrap: wrap;
+      padding-right: 1vw;
+      padding-left: 1vw;
+    }
     .portfolio-content {
       display: grid;
       grid-template-areas:
-      "a a b b"
+      "a a b b "
       "c c d d"
-      "e e f f";
     }
     .jumbotron {
       padding-top: 20vh;
@@ -241,13 +263,12 @@ body {
       "a"
       "b"
       "c"
-      "d"
-      "e"
-      "f";
+      "d";
     }
     .jumbotron {
       padding-bottom: 25vh;
     }
+
     .btn {
       font-size: 0.9rem;
       color:#db7c0e
