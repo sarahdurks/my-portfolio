@@ -203,7 +203,7 @@ main {
     font-size: 0.8rem;
 }
 
-/* Portfolio - Feature First Child */
+/* Grid Portfolio - Feature First Child */
 .grid-item:first-child {
     grid-column: span 8;
     grid-row: span 2;
@@ -251,7 +251,7 @@ main {
     color: var(--light);
 }
 
-/* Images Used */
+/* Images*/
 .run-buddy {
     background-image: url("../images/run-buddy.png");
 }
@@ -279,6 +279,8 @@ main {
 
 
 /* MEDIA QUERIES*/
+
+/* Max Width 980px*/
 
 @media screen and (max-width: 980px) {
     header {
@@ -319,9 +321,9 @@ main {
         text-align: center;
         padding-left: 50px;
     }
-
 }
 
+/* Max Width 768px*/
 @media screen and (max-width: 768px) {
     .grid-item,
     .grid-item:first-child {
@@ -332,11 +334,8 @@ main {
         grid-auto-rows: minmax(200px, 1fr);
     }
 
-
     .contact address {
         flex-direction: column;
         align-items: center;
     }
-
-
 }
