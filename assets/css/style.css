@@ -6,13 +6,11 @@
     box-sizing: border-box;
 }
 
-/* Site Core Colors*/
+/* Site Core Colors + Style*/
 :root {
     --primary: rgb(121,82,125);
-    /* --secondary: rgba(146, 204, 206, 1); */
     --secondary:rgb(240,121,82);
     --tertiary: rgb(240,121,82)
-    --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
 }
 
@@ -25,18 +23,14 @@ body {
     line-height: 1.5;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4 {
     margin: 0;
 }
 
 p {
     margin: 0;
 }
+
 /* Header Items */
 header {
     padding: 15px 6% 15px 0;
@@ -177,7 +171,7 @@ main {
     color: black;
 }
 
-/* Grid Structure */
+/* Grid Portfolio Structure */
 .grid-container {
     display: grid;
     column-gap: 10px;
@@ -219,7 +213,32 @@ main {
 }
 
 .grid-item h3 {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
+}
+
+/* Images*/
+.run-buddy {
+    background-image: url("../images/run-buddy.png");
+}
+
+.horiseon {
+    background-image: url("../images/horiseon.png");
+}
+
+.navmenu {
+    background-image: url("../images/navmenu.png");
+}
+
+.about {
+    background-image: url("../images/about.png");
+}
+
+.odds {
+    background-image: url("../images/odds.png"); 
+}
+
+.games {
+    background-image: url("../images/games.png"); 
 }
 
 /* Contact Section */
@@ -258,30 +277,6 @@ footer  {
     vertical-align: bottom;
   }
 
-/* Images*/
-.run-buddy {
-    background-image: url("../images/run-buddy.png");
-}
-
-.horiseon {
-    background-image: url("../images/horiseon.png");
-}
-
-.navmenu {
-    background-image: url("../images/navmenu.png");
-}
-
-.about {
-    background-image: url("../images/about.png");
-}
-
-.odds {
-    background-image: url("../images/odds.png"); 
-}
-
-.games {
-    background-image: url("../images/games.png"); 
-}
 
 
 
