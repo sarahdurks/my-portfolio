@@ -11,6 +11,7 @@
     --primary: rgb(121,82,125);
     --secondary:rgb(240,121,82);
     --tertiary: rgb(240,121,82)
+    --dark: rgba(28, 29, 33, 1);
     --light: rgba(238, 238, 247, 1);
 }
 
