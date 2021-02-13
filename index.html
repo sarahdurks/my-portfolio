@@ -1,147 +1,126 @@
+
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./assets/css/style.css">
-<script src="https://use.fontawesome.com/83ac61cd0f.js"
-    ></script>
-<title>Sarah Durkin's Portfolio | SarahDurks.Github.io</title>
-<link rel="shortcut icon" type="image/jpg" href="./assets/images/lion.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>🦁 Sarah Durkin Portfolio | SEO & Full Stack in Training</title>
+    <link rel="stylesheet" href="./assets/css/style.css" /> 
+    <script
+    src="https://use.fontawesome.com/releases/v5.15.2/js/all.js"
+    data-search-pseudo-elements
+  ></script>
 </head>
 
-<body class="container" id="top">
-<!-- NAV START -->
-<div class="nav">
-	<nav>
-	<div class="nav-content">
-		<span><a href="#about">About Sarah</a><span>
-		<span><a href="#portfolio">Portfolio</a></span>
-		<span><a href="#contact">Contact</a></span>
-	</div>
-	</nav>
-</div>
+<body>
+  <!-- Navigation & Main Header -->
+    <header>
+        <h1>Sarah Durkin</h1>
+        <nav>
+            <a href="#about">About Me</a>
+            <a href="#work">My Work</a>
+            <a href="#contact">Contact Me</a>   
+        </nav>
+    </header>
 
-<!-- JUMBOTRON -->
-<div class="jumbotron centered">
-	<div class="jumbotron-content">
-		<h1 class=""><span class="title">Hey, I'm sarahdurks &#129409;</span>
-		</h1>
-		<p class="">
-			<span class="jumbo-caption">I'm a marketer & SEO trying to learn about web development at at UC Berkeley's Coding Bootcamp.</span>
-		</p>
-		<p class="">
-			<a href="#portfolio" class="btn" role="button">View Portfolio</a>
-		</p>
-	</div>
-</div>
-</div>
+    <!-- Hero -->
+    <section class="hero-banner">
+      <img src="./assets/images/sarahdurks.png"/>
+      <div>
+        
+          <h2>SEO + Work-in-Progress Developer</h2>
+      </div>
+    </section>
 
-<!-- ABOUT SECTION-->
-<div class="about centered" id="about">
-<div class="about-content">
-	<div class="about-avatar">
-		<img src="./assets/images/sarahdurks.png" class="avatar img-av" alt="Sarah headshot">
-	</div>
-	<div class="about-text">
-		<h2 class="">About Sarah</h2>
-		<hr>
-		<p>	Nice to see you here! My name is Sarah Durkin. I'm Head of Search at <a href="https://www.actionnetwork.com">The Action Network</a>, and making this portfolio as part of UC Berkeley's Coding Bootcamp. </p>
-		<p>More to come as I build out this portfolio with fewer 'placeholder' projects.</p>
-		<hr>
-		<p class="">
-			<a href="#portfolio" class="btn" role="button">View portfolio</a>
-		</p>
-	</div>
-</div>
-</div>
-<!-- PORTFOLIO -->
-<wrapper class="portfolio centered" id="portfolio">
-<p>
-	<h2>Portfolio</h2>
-</p>
-	<!-- Project 1: Hero Feature About Us -->
-	<section class="portfolio-feature">
-		<a href="https://www.actionnetwork.com/about"><img src="./assets/images/about.png" alt="about us page at Action Network" class="img-max">
-		<h3>About Us Page</h3></a>
-		<p>'About us' page created by my team, not me. </p>
-	</section>
-	
-	<section class="portfolio-content">
-     <!-- Project 2: Horiseon -->
-		<figure class="pointer-cursor">
-    <a href="https://sarahdurks.github.io/horiseon-bootcamp/">
-    <img src="./assets/images/horiseon.png" alt="Horiseon Marketing Agency website preview" class="img-responsive">
-		<figcaption>
-		<h3>Horiseon</h3></a>
-		<p>Demo marketing website made with HTML, CSS.</p>
-		</figcaption>
-		</figure>
-	
-    <!-- Project 3: Navigation -->
-	 <figure class="pointer-cursor">
-    <a href="https://www.actionnetwork.com">
-    <img src="./assets/images/navmenu.png" alt="Navigation menu on Action Network" class="img-responsive">
-    <figcaption>
-		<h3>Navigation Menu</h3></a>
-		<p>	Navigation menu created by my team, not me.</p>
-		</figcaption>
-		</figure>
-	 
-    <!-- Project 4: Run Buddy-->
-		<figure class="pointer-cursor">
-		<a href="https://sarahdurks.github.io/Run-Buddy"><img src="./assets/images/run-buddy.png" alt="Run buddy project from bootcamp homework" class="img-responsive">
-		<figcaption>
-		<h3>Run Buddy</h3></a>
-		<p>Demo website created for homework.</p>
-		</figcaption>
-		</figure>
-	
-    <!-- Project 5: State Page -->
-		<figure class="pointer-cursor">
-		<a href="https://www.actionnetwork.com/online-sports-betting/tennessee"><img src="./assets/images/state.png" alt="State page project" class="img-responsive">
-		<figcaption>
-		<h3>State Page</h3></a>
-		<p>State page created by my team, not me. </p>
-		</figcaption>
-		</figure>
-	</section>
-	</wrapper>
+  <main class="page-wrapper">
+    <!-- About Me -->
+    <section class="page-section" id="about">
+      <h2>About Me</h2>
+      <div>
+        <p>
+          Nice to see you here! My name is Sarah Durkin. I'm Head of Search at The Action Network, and making this portfolio as part of UC Berkeley's Coding Bootcamp.
 
-<!-- CONTACT + SOCIAL ICON SET-->
-<section id="contact" class="centered">
-	<h2>Contact Me</h2>
-	<ul class="social-set">
-		<!-- GitHub -->
-		<li><a class="sociali" href="https://github.com/sarahdurks" target="_blank" aria-label="GitHub">
-		  <i class="fa fa-github-square fa-fw" title="GitHub"></i></a></li>
-		
-		<!-- GitLab -->
-		 <li><a class="sociali" href="https://gitlab.com/sarahdurks" target="_blank" aria-label="GitLab">
-			<i class="fa fa-gitlab fa-fw" title="GitLab"></i></a></li>
-		 
-		<!-- Stack Overflow -->
-		<li><a class="sociali" href="https://stackoverflow.com/users/15048540/sarahdurks" target="_blank" aria-label="StackOverflow">
-		  <i class="fa fa-stack-overflow fa-fw" title="StackOverflow"></i></a></li>
-		
-		<!-- LinkedIn-->
-		<li><a class="sociali" href="https://www.linkedin.com/in/sarahdurks/" target="_blank" aria-label="LinkedIn">
-		  <i class="fa fa-linkedin fa-fw" title="LinkedIn"></i></a></li>
-		
-		<!-- Gmail -->
-		  <li><a class="sociali" href="mailto:sedurkin1gmail.com" target="_blank" aria-label="Email">
-			<i class="fa fa-google fa-fw" title="Email"></i></a></li>
-		
-		<!-- Instagram -->
-		 <li><a class="sociali" href="https://www.instagram.com/sarahdurks/" target="_blank" aria-label="Instagram">
-			<i class="fa fa-instagram fa-fw" title="Instagram"></i></a></li>
-	</ul>
-</section>
+          More to come as I build out this portfolio with fewer 'placeholder' projects.
+        </p>
+    </section>
 
-<!--FOOTER -->
-	<footer>
-		<p><a href="#top">^ Go back to top</a></p>
-	<p>Created by <a href="https://github.com/sarahdurks">sarahdurks 2021</a></p>
-	</footer>
+    <!-- Portfolio Grid -->
+    <section class="page-section" id="work">
+      <h2>Work</h2>
+      <div class="grid-container">
+
+        <a href="https://sarahdurks.github.io/Run-Buddy" class="grid-item run-buddy">
+          <div>
+            <h3>RunBuddy</h3>
+            <span>HTML, CSS</span>
+          </div>
+        </a>
+        <a href="https://sarahdurks.github.io/horiseon-bootcamp/" class="grid-item horiseon">
+          <div>
+            <h3>Horiseon</h3>
+            <span>HTML, CSS</span>
+          </div>
+        </a>
+
+        <a href="https://www.actionnetwork.com/" class="grid-item navmenu">
+          <div>
+            <h3>Nav Menu</h3>
+            <span>Placeholder</span>
+          </div>
+        </a>
+
+        <a href="https://www.actionnetwork.com/about/" class="grid-item about">
+          <div>
+            <h3>About Page</h3>
+            <span>Placeholder</span>
+          </div>
+        </a>
+
+        <a href="#" class="grid-item games">
+          <div>
+            <h3>Games</h3>
+            <span>Placeholder</span>
+          </div>
+        </a>
+    
+        <a href="#" class="grid-item odds">
+          <div>
+            <h3>Odds</h3>
+            <span>Placeholder</span>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    
+    <!-- Contact -->
+    <section class="page-section contact" id="contact">
+      <h2>Contact Me</h2>
+      <div>
+        <address>
+            <a href="https://github.com/sarahdurks" target="_blank">
+                <i class="fab fa-github"></i>
+                GitHub
+            </a>
+            <a href="https://www.linkedin.com/in/sarahdurks" target="_blank">
+                <i class="fab fa-linkedin"></i>
+                Linkedin
+            </a>
+            <a href="https://gitlab.com/sarahdurks" target="_blank">
+              <i class="fab fa-gitlab"></i>
+              GitLab
+          </a>
+          <a href="https://stackoverflow.com/users/15048540/sarahdurks" target="_blank">
+            <i class="fab fa-stack-overflow"></i> Stack Overflow
+          </a>
+              <a href="www.sarahdurkin.com" target="_blank"> My Website</a>
+        </address>
+      </div>
+    </section>
+  </main>
 </body>
+
 </html>
