@@ -14,8 +14,9 @@ Berkeley Coding Bootcamp's 1st project, a portfolio home.
 
 The following was completed:
 
+- [x] Mini bio added
+- [x] Pictures of myself and projects included
 - [x] Social profile links and icons added
-- [x] Contact form added
 - [x] Jump Links nav
 - [x] Media Queries
 - [x] Image Hover States
