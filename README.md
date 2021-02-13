@@ -69,4 +69,4 @@ The following was completed:
 [Font Awesome](https://fontawesome.com/)
 
 ### Favicon Turorial :tada:
-[Favicon How to] (https://favicon.io/tutorials/how-to-add-a-favicon-to-a-website-png-format/)
+[Favicon How to](https://favicon.io/tutorials/how-to-add-a-favicon-to-a-website-png-format/)
