@@ -51,8 +51,8 @@ The following was completed:
 [Learn More about Bootcamp Program](https://bootcamp.berkeley.edu/coding/) 
 
 ### CSS Tricks :boom:
-[A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox)
-[Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters)
+[A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox),
+[Precedence CSS Order CSS Matters](https://css-tricks.com/precedence-css-order-css-matters),
 [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ### W3Schools :nerd_face:
