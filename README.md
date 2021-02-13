@@ -47,7 +47,7 @@ The following was completed:
 ![02-advanced-css-homework-demo-1](https://user-images.githubusercontent.com/77648727/107163594-3eb83000-695f-11eb-9118-0da4b82f8627.gif). 
 
 ^ mock + f(x) demo from assignment. 
-![my-execution-off-assignment](https://user-images.githubusercontent.com/77648727/107858548-9df7c380-6de9-11eb-8a95-6fd7b31817ed.png). 
+![my-execution-off-assignment](https://user-images.githubusercontent.com/77648727/107862790-13708d80-6e04-11eb-8b7d-c84087ec9a68.gif). 
 
 ^ my execution of assignment [(see IRL)](https://sarahdurks.github.io/my-portfolio/). 
 
