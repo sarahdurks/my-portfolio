@@ -1,6 +1,6 @@
 
 # Name 
-UC Berkeley's Coding Bootcamp Porfolio Project to host our assignments for an employer user story.
+UC Berkeley's Coding Bootcamp Portfolio Project to host our assignments for an employer user story.
 
 ### Live Application Link :eyes:
 See live application [here](https://sarahdurks.github.io/my-portfolio/)
