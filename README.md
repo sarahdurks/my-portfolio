@@ -67,3 +67,6 @@ The following was completed:
 
 ### Font Awesome :raised_hands:
 [Font Awesome](https://fontawesome.com/)
+
+### Favicon Turorial :tada:
+[Favicon How to] (https://favicon.io/tutorials/how-to-add-a-favicon-to-a-website-png-format/)
