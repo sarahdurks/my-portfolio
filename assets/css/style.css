@@ -251,6 +251,13 @@ main {
     color: var(--light);
 }
 
+/* Footer formatting */
+footer  {
+    font-size: 1.0em;
+    text-align: center;
+    vertical-align: bottom;
+  }
+
 /* Images*/
 .run-buddy {
     background-image: url("../images/run-buddy.png");
@@ -275,6 +282,7 @@ main {
 .games {
     background-image: url("../images/games.png"); 
 }
+
 
 
 
