@@ -10,7 +10,7 @@ See live application [here](https://sarahdurks.github.io/my-portfolio/)
 - CSS
 
 # Description 
-Berkeley Coding Bootcamp's 1st project, a portfolio home for work developed now and in the feature.
+Berkeley Coding Bootcamp's 1st project, a portfolio home for work developed now and in the future.
 
 The following was completed:
 
