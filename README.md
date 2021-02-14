@@ -1,6 +1,6 @@
 
 # Name 
-UC Berkeley's Coding Bootcamp Portfolio Project to host our assignments for an employer user story.
+Advanced CSS Portfolio project for UC Berkeley's Coding Bootcamp 
 
 ### Live Application Link :eyes:
 See live application [here](https://sarahdurks.github.io/my-portfolio/)
@@ -10,7 +10,7 @@ See live application [here](https://sarahdurks.github.io/my-portfolio/)
 - CSS
 
 # Description 
-Berkeley Coding Bootcamp's 1st project, a portfolio home.
+Berkeley Coding Bootcamp's 1st project, a portfolio home for work developed now and in the feature.
 
 The following was completed:
 
@@ -21,13 +21,13 @@ The following was completed:
 - [x] Media Queries
 - [x] Image Hover States
 
-## User Story
+## User Story :book:
 
 > AS AN employer
 > I WANT to view a potential employee's deployed portfolio of work samples
 > SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
 
-## Acceptance Criteria
+## Acceptance Criteria :+1:
 
 > GIVEN I need to sample a potential employee's previous work
 > WHEN I load their portfolio
