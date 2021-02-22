@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/77648727/107866546-ebdeec80-6e26-11eb-8fa7-d2c1eb6fddbd.png" alt="Logo" width="80" height="80">
-  <h3 align="center">Portfolio README</h3>
+![Thumbnail (7)](https://user-images.githubusercontent.com/77648727/108649859-093d3780-7473-11eb-851e-445c4692d291.png)
+
 
 # Name 
 Advanced CSS Portfolio project for UC Berkeley's Coding Bootcamp 
