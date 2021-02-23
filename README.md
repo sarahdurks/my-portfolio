@@ -10,6 +10,8 @@
 
 ### Advanced CSS Portfolio
 
+Portfolio to feature work completed during bootcamp.
+
 ### Live Application Link :eyes:
 See live application [here](https://sarahdurks.github.io/my-portfolio/)
 
