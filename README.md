@@ -8,7 +8,7 @@
 
 
 
-Advanced CSS Portfolio project for UC Berkeley's Coding Bootcamp 
+### Advanced CSS Portfolio
 
 ### Live Application Link :eyes:
 See live application [here](https://sarahdurks.github.io/my-portfolio/)
