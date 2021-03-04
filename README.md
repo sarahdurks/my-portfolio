@@ -1,4 +1,4 @@
-![Frame 20](https://user-images.githubusercontent.com/77648727/109896372-b1a68500-7c45-11eb-9e0b-f921d8be3826.png)
+![Frame 20 (1)](https://user-images.githubusercontent.com/77648727/109896843-86706580-7c46-11eb-8f82-10eee7332ea3.png)
 
 # Name 
 UC Berkeley Coding Bootcamp Week 2 Project
