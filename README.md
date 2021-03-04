@@ -1,11 +1,7 @@
 ![Frame 20](https://user-images.githubusercontent.com/77648727/109896372-b1a68500-7c45-11eb-9e0b-f921d8be3826.png)
 
 # Name 
-
- |![image 16 (2)](https://user-images.githubusercontent.com/77648727/108654344-54f4de80-747d-11eb-9a16-12318f82e4a8.png)| UC Berkeley Coding Bootcamp <br> Week 2 Project |
-|---|:---| 
-
-
+UC Berkeley Coding Bootcamp Week 2 Project
 
 ### Advanced CSS Portfolio
 
